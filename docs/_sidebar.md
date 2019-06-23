@@ -1,2 +1,2 @@
-* Template
+* HAProxy
 

@@ -5,25 +5,25 @@
     * [MAC](install/MAC.md)
     * [CentOS](CentOS.md)
 * [概述](intro.md)
-* [官方文档](official.md)
-    * [Starter Guide](starter.md)
+* 官方文档
+    * Starter Guide
     * [Configuration Manual](configuration.md)
-        * [Quick reminder about HTTP](QuickreminderaboutHTTP.md)
+        * Quick reminder about HTTP
         * [配置 HAProxy](ConfiguringHAProxy.md)
         * [Global 参数](global.md)
         * [4. Proxies](proxies.md)
             * [4.1. Proxy keywords matrix](proxies/keywords.md)
-            * [4.2. Alphabetically sorted keywords reference](proxies/keywordsreference.md)
+            * 4.2. Alphabetically sorted keywords reference
                 * [balance](proxies/keywordsreference/balance.md)
-                * [mode](proxies/keywordsreference/mode.md)
+                * mode
                 * [retries](proxies/keywordsreference/retries.md)
-        * [Bind and Server options](BindandServeroptions.md)
-        * [HTTP header manipulation](HTTPheadermanipulation.md)
-        * [Using ACLs and fetching samples](UsingACLsandfetchingsamples.md)
-        * [Logging](Logging.md)
-    * [Management Guide](management.md)
-* [配置示例](example.md)
-    * [负载均衡MySQL服务](example/loadbalencemysql.md)
+        * Bind and Server options
+        * HTTP header manipulation
+        * Using ACLs and fetching samples
+        * Logging
+    * Management Guide
+* 配置示例
+    * 负载均衡MySQL服务
     * [动静分离](example/动静分离.md)
     * [HAProxy 统计页面](example/HAProxy统计页面.md)
 * [附录](other.md)
